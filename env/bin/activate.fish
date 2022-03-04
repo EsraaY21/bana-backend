@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/esraa/code/bana-project/bana-backend/env"
+set -gx VIRTUAL_ENV "/home/esraa/code/last-backend-test/bana-backend/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

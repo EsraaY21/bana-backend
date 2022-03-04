@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/esraa/code/bana-project/bana-backend/env"
+VIRTUAL_ENV="/home/esraa/code/last-backend-test/bana-backend/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
